@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Bruno B Monteiro
 
 <!--
 **brunoBMonteiro/brunoBMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=brunoBMonteiro&show_icons=true" alt="brunoBMonteiro"/> 
 </p>
-<p align="center">
+
