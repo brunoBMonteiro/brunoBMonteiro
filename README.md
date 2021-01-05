@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Bruno B Monteiro
 
 ## Languages and Technologies
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+<img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3d%2FCSS.3.svg%2F1200px-CSS.3.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ACSS.3.svg&tbnid=O23NpgO_zPE4hM&vet=12ahUKEwjS3_rBy4TuAhWoM7kGHYAGC48QMygCegUIARCIAQ..i&docid=dbX2eSwc2O92PM&w=1200&h=1682&q=css3.svg&hl=pt-BR&ved=2ahUKEwjS3_rBy4TuAhWoM7kGHYAGC48QMygCegUIARCIAQ" alt="css3"  width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 
 ### Social media profile
 [Linkedin](https://www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/) [Instagram](https://www.instagram.com/brunobilheri/?hl=pt-br)
