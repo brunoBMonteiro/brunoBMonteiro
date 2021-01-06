@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Bruno B Monteiro
+<h1 align="center">Hi there 👋, I'm Bruno B Monteiro</h1>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
