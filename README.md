@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/)](https://https://www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobilheri/?hl=pt-br)](https://www.instagram.com/brunobilheri/?hl=pt-br)
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
