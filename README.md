@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/)](https://https://www.linkedin.com/in/bruno-bilheri-monteiro-4b128215b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobilheri/?hl=pt-br)](https://www.instagram.com/brunobilheri/?hl=pt-br)
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
