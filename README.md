@@ -70,36 +70,33 @@
     </td>
   </tr>
   <tr>
-    <!-- Badges for Libraries -->
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    </td>
+    <!-- Badges for Libraries and Tools -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
-    <!-- Empty cells for alignment -->
-    <td align="center" width="120"> </td>
-    <td align="center" width="120"> </td>
-    <td align="center" width="120"> </td>
-  </tr>
-  <tr>
-    <!-- Badges for Tools -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
     </td>
-    <!-- Badges for Databases -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
+  </tr>
+  <tr>
+    <!-- Badges for DBeaver -->
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/DBeaver-007ACC?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
     </td>
+    <!-- Empty cells for alignment -->
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
   </tr>
 </table>
 
