@@ -60,11 +60,14 @@
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
     </td>
     <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring WebFlux" />
     </td>
   </tr>
   <tr>
     <!-- Badges for Libraries and Tools -->
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
@@ -74,12 +77,12 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
-    </td>
   </tr>
   <tr>
     <!-- Badges for Databases -->
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
+    </td>
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
@@ -89,8 +92,6 @@
     <td align="center" width="150">
       <img src="https://img.shields.io/badge/DBeaver-007ACC?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
     </td>
-    <!-- Empty cell for alignment -->
-    <td align="center" width="150"></td>
   </tr>
 </table>
 
