@@ -74,8 +74,10 @@
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </td>
     <!-- Empty cells for alignment -->
-    <td align="center" width="120"><!-- New tecs --> </td>
     <td align="center" width="120"> </td>
     <td align="center" width="120"> </td>
     <td align="center" width="120"> </td>
