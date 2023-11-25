@@ -35,68 +35,62 @@
 <table align="center">
   <tr>
     <!-- Badges for Languages -->
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </td>
   </tr>
   <tr>
     <!-- Badges for Frameworks -->
-    <td align="center" width="120">
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
   </tr>
   <tr>
     <!-- Badges for Libraries and Tools -->
-    <td align="center" width="120">
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </td>
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
   </tr>
   <tr>
-    <!-- Badges for DBeaver -->
-    <td align="center" width="120">
+    <!-- Badges for Databases -->
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    </td>
+    <td align="center" width="150">
       <img src="https://img.shields.io/badge/DBeaver-007ACC?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
     </td>
-    <!-- Empty cells for alignment -->
-    <td align="center" width="120"></td>
-    <td align="center" width="120"></td>
-    <td align="center" width="120"></td>
-    <td align="center" width="120"></td>
+    <!-- Empty cell for alignment -->
+    <td align="center" width="150"></td>
   </tr>
 </table>
 
